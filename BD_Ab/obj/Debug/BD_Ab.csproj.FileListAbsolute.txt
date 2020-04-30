@@ -1,0 +1,13 @@
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\bin\Debug\Db.mdf
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\bin\Debug\Db_log.ldf
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\bin\Debug\BD_Ab.exe.config
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\bin\Debug\BD_Ab.exe
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\bin\Debug\BD_Ab.pdb
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.csprojAssemblyReference.cache
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.Form1.resources
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.Form_c.resources
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.Properties.Resources.resources
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.exe
+C:\Users\Мария\Desktop\BD_Ab\BD_Ab\obj\Debug\BD_Ab.pdb
